@@ -8,11 +8,11 @@
 
 $(function () {
     //分享按钮
-    $('#btn1').on('click',function () {
-        window.location.href = '';
+    $('#btn2').on('click',function () {
+        window.location.href = 'http://service.bj.10086.cn/m/activity/manager/showIndex.action?activityName=wxkdzq&channelName=app&source=app&mm=tjyl';
     });
     //立即办理按钮
-    $('#btn2').on('click',function () {
+    $('#btn1').on('click',function () {
         $('.tc').fadeIn();
         showMask();
     });
@@ -25,7 +25,7 @@ $(function () {
         hideMask();
     });
     //邀请的好友列表
-    $('.list').show();
+    //$('.list').show();
 
     //隐藏手机号中间4位
     (function () {
