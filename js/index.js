@@ -25,7 +25,7 @@ $(function () {
         hideMask();
     });
     //邀请的好友列表
-    //$('.list').show();
+    $('.list').show();
 
     //隐藏手机号中间4位
     (function () {
