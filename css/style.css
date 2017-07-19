@@ -185,3 +185,9 @@ section footer .textBox p{
     opacity: 0.8;
     -moz-opacity: 0.8;
 }
+/*增加我要分享按钮样式*/
+.btn.add{
+    margin-top: -3rem;
+    background: url("../images/Btn-3.png") center no-repeat;
+    background-size: cover;
+}

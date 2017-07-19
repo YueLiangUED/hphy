@@ -16,6 +16,10 @@ $(function () {
         $('.tc').fadeIn();
         showMask();
     });
+    //我要分享按钮
+    $('#btn3').on('click',function () {
+
+    });
     $('#mask').on('click',function () {
         $('.tc').fadeOut();
         hideMask();
@@ -25,14 +29,8 @@ $(function () {
         hideMask();
     });
     //邀请的好友列表
-    //$('.list').show();
-
-    //隐藏手机号中间4位
-    (function () {
-        var $number = $('#phoneNum').find('li').find('span:nth-child(2)');
-        var mtel = $number.html().substr(0, 3) + '****' + $number.html().substr(-4);
-        $number.text(mtel);
-    })();
+    $('.list').show();
+    
 
     //显示遮罩层
     function showMask(){

@@ -73,3 +73,11 @@
 </html>
 <script src="js/jquery-1.10.1.min.js"></script>
 <script src="js/index.js"></script>
+<script>
+    //隐藏手机号中间4位
+    (function () {
+        var $number = $('#phoneNum').find('li').find('span:nth-child(2)');
+        var mtel = $number.html().substr(0, 3) + '****' + $number.html().substr(-4);
+        $number.text(mtel);
+    })();
+</script>
