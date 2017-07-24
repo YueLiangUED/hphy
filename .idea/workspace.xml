@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e34cac4-2461-4769-8861-4a44df052cc6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/归档.zip" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg1_02.png" afterPath="$PROJECT_DIR$/images/bg1_02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/bg1_03.png" afterPath="$PROJECT_DIR$/images/bg1_03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/erweima.jpg" afterPath="$PROJECT_DIR$/images/erweima.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/picBox_05.png" afterPath="$PROJECT_DIR$/images/picBox_05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/js/index.js" />
     </list>
     <ignored path="0713呼朋唤友.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="565">
@@ -50,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="196" column="4" selection-start-line="196" selection-start-column="4" selection-end-line="196" selection-end-column="4" />
+            <state relative-caret-position="275">
+              <caret line="199" column="14" selection-start-line="199" selection-start-column="14" selection-end-line="199" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -78,8 +71,8 @@
       <list>
         <option value="$PROJECT_DIR$/index1.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -282,12 +275,12 @@
       <workItem from="1500628629547" duration="294000" />
       <workItem from="1500629470110" duration="104000" />
       <workItem from="1500862467684" duration="334000" />
-      <workItem from="1500864605440" duration="655000" />
+      <workItem from="1500864605440" duration="787000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17021000" />
+    <option name="totallyTimeSpent" value="17153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1234" height="777" extended-state="6" />
@@ -599,14 +592,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="196" column="4" selection-start-line="196" selection-start-column="4" selection-end-line="196" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -619,6 +604,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="565">
           <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="199" column="14" selection-start-line="199" selection-start-column="14" selection-end-line="199" selection-end-column="14" />
           <folding />
         </state>
       </provider>
