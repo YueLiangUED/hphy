@@ -15,8 +15,8 @@ $(function () {
     $('#btn1').on('click',function () {
         //$('.tc').fadeIn();
         //showMask();
-        $('#main').hide();
-        $('.box').show();
+        $('.box').fadeIn();
+        showMask();
     });
     //我要分享按钮
     $('#btn3').on('click',function () {
@@ -24,6 +24,7 @@ $(function () {
     });
     $('#mask').on('click',function () {
         $('.tc').fadeOut();
+        $('.box').fadeOut();
         hideMask();
     });
     $('.tc').on('click',function () {

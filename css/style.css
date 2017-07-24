@@ -195,17 +195,23 @@ section footer .textBox p{
 /*新增二维码样式*/
 .box{
     display: none;
+    position: fixed;
+    top: 10%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 9999;
 }
 .box div{
-    width: 37.5rem;
+    width: 33.2rem;
 }
 .box div:nth-child(1){
-    height: 20.75rem;
+    height: 19.2rem;
     background: url("../images/bg1_02.png") center no-repeat;
     background-size: cover;
 }
 .box div:nth-child(2){
-    height: 33.95rem;
+    height: 28.35rem;
     background: url("../images/bg1_03.png") center no-repeat;
     background-size: cover;
 }
@@ -219,8 +225,8 @@ section footer .textBox p{
 }
 .box div:nth-child(2) div img{
     position: absolute;
-    bottom: 1.05rem;
-    left: 6.98rem;
-    width: 15.5rem;
-    height: 15.5rem;
+    bottom: 1.75rem;
+    left: 7.6rem;
+    width: 14.05rem;
+    height: 14.25rem;
 }
