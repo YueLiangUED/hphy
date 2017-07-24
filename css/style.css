@@ -197,7 +197,7 @@ section footer .textBox p{
     display: none;
     position: fixed;
     top: 10%;
-    margin: 0 auto;
+    left: 2.15rem;
     z-index: 9999;
 }
 .box div{
