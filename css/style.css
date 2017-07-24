@@ -191,3 +191,36 @@ section footer .textBox p{
     background: url("../images/Btn-3.png") center no-repeat;
     background-size: cover;
 }
+
+/*新增二维码样式*/
+.box{
+    display: none;
+}
+.box div{
+    width: 37.5rem;
+}
+.box div:nth-child(1){
+    height: 20.75rem;
+    background: url("../images/bg1_02.png") center no-repeat;
+    background-size: cover;
+}
+.box div:nth-child(2){
+    height: 33.95rem;
+    background: url("../images/bg1_03.png") center no-repeat;
+    background-size: cover;
+}
+.box div:nth-child(2) div{
+    position: relative;
+    margin: 0 auto;
+    width: 29.3rem;
+    height: 25.05rem;
+    background: url("../images/picBox_05.png") center no-repeat;
+    background-size: cover;
+}
+.box div:nth-child(2) div img{
+    position: absolute;
+    bottom: 1.05rem;
+    left: 6.98rem;
+    width: 15.5rem;
+    height: 15.5rem;
+}

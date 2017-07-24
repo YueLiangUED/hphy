@@ -13,8 +13,10 @@ $(function () {
     });
     //立即办理按钮
     $('#btn1').on('click',function () {
-        $('.tc').fadeIn();
-        showMask();
+        //$('.tc').fadeIn();
+        //showMask();
+        $('#main').hide();
+        $('.box').show();
     });
     //我要分享按钮
     $('#btn3').on('click',function () {
@@ -30,7 +32,6 @@ $(function () {
     });
     //邀请的好友列表
     $('.list').show();
-    
 
     //显示遮罩层
     function showMask(){
